@@ -1,0 +1,6 @@
+{ "portfolio" :  [
+  {"ID" : 1, "Exposure" : 136},
+  {"ID" : 2, "Exposure" : 126},
+  {"ID" : 3, "Exposure" : 134}
+  ]
+}
