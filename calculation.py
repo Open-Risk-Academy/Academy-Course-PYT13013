@@ -5,12 +5,12 @@ import json
 import numpy as np
 
 # load the JSON data and parse it into a dictionary
-filehandle = open("portfolio2.json","r")
-json_data= filehandle.read()
+filehandle = open("portfolio2.json", "r")
+json_data = filehandle.read()
 data = json.loads(json_data)
 
 # move the data into a numpy array and sort it
-portfolio = np.array(data['Exposure']) 
+portfolio = np.array(data['Exposure'])
 portfolio = sorted(portfolio, reverse=True)
 
 # calculate the portfolio weights

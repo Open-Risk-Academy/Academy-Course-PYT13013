@@ -7,8 +7,9 @@ Created on Mon Apr 13 14:45:21 2015
 
 import json
 import numpy as np
-filehandle = open("portfolio2.json","r")
-json_data= filehandle.read()
+
+filehandle = open("portfolio2.json", "r")
+json_data = filehandle.read()
 data = json.loads(json_data)
 
-x = np.array(data['Exposure'])    
+x = np.array(data['Exposure'])
