@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 13 14:45:21 2015
-
-@author: philippos
-"""
-
+# (c) 2015 - 2023 Open Risk (https://www.openriskmanagement.com)
 
 def helloworld():
     letters = ['H', 'e', 'l', 'l', 'o', ' ', 'W', 'o', 'r', 'l', 'd']

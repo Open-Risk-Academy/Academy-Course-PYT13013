@@ -1,3 +1,5 @@
+# (c) 2015 - 2023 Open Risk (https://www.openriskmanagement.com)
+
 """
 Created on Fri Feb 29 14:33:17 2015
 @author: open risk

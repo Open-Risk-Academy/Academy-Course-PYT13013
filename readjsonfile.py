@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 13 14:45:21 2015
-
-@author: open risk
-"""
+# (c) 2015 - 2023 Open Risk (https://www.openriskmanagement.com)
 
 import json
 import numpy as np

@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 29 17:31:38 2015
-
-@author: philippos
-"""
+# (c) 2015 - 2023 Open Risk (https://www.openriskmanagement.com)
 
 from scipy import stats
 from scipy.stats import norm

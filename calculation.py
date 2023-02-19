@@ -1,3 +1,5 @@
+# (c) 2015 - 2023 Open Risk (https://www.openriskmanagement.com)
+
 # import the require modules
 # use a convenient alias to reduce typing
 import concentration_library as cl
